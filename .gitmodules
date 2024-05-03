@@ -1,0 +1,6 @@
+[submodule "term"]
+	path = term
+	url = https://codeberg.org/gnarz/term
+[submodule "src/term"]
+	path = src/term
+	url = https://codeberg.org/gnarz/term
